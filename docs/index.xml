@@ -6,7 +6,17 @@
     <description>Recent content on O Meu Sítio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language>
-    <lastBuildDate>Fri, 26 Nov 2021 13:52:15 +0100</lastBuildDate><atom:link href="https://zerozeroseix.github.io/o-meu-sitio-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 15:46:31 +0100</lastBuildDate><atom:link href="https://zerozeroseix.github.io/o-meu-sitio-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Um_outro_post</title>
+      <link>https://zerozeroseix.github.io/o-meu-sitio-hugo/posts/um_outro_post/</link>
+      <pubDate>Fri, 26 Nov 2021 15:46:31 +0100</pubDate>
+      
+      <guid>https://zerozeroseix.github.io/o-meu-sitio-hugo/posts/um_outro_post/</guid>
+      <description>Este é um post criado e publicado despois de ter subido e despregado o sítio web HUGO no Github.
+ É umha operaçom rutinária Cria-se co comando &amp;ldquo;hugo new DIRECTORIO/NOME_POST.md&amp;rdquo; Cada vez que se quere actualizar o contido é necessário criar os novos ficheiros de produçom (dentro do directório /docs/). O nome &amp;ldquo;docs&amp;rdquo; vém dado por exigências de Github Pages, pois este é o único nome que admite para o despregue da página.</description>
+    </item>
+    
     <item>
       <title>Benvidos a Hugo</title>
       <link>https://zerozeroseix.github.io/o-meu-sitio-hugo/posts/benvidos-a-hugo/</link>
