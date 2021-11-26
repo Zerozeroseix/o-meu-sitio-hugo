@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on O Meu Sítio</title>
+    <title>Categories on Brand</title>
     <link>https://zerozeroseix.github.io/o-meu-sitio-hugo/categories/</link>
-    <description>Recent content in Categories on O Meu Sítio</description>
+    <description>Recent content in Categories on Brand</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gl</language><atom:link href="https://zerozeroseix.github.io/o-meu-sitio-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
