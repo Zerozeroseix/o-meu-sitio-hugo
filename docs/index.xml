@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O Meu Sítio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on O Meu Sítio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gl</language>
+    <lastBuildDate>Fri, 26 Nov 2021 13:52:15 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benvidos a Hugo</title>
+      <link>http://example.org/posts/benvidos-a-hugo/</link>
+      <pubDate>Fri, 26 Nov 2021 13:52:15 +0100</pubDate>
+      
+      <guid>http://example.org/posts/benvidos-a-hugo/</guid>
+      <description>Esta é a bem-vida ao sítio web</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://example.org/posts/primeiro-post/</link>
+      <pubDate>Fri, 26 Nov 2021 13:51:15 +0100</pubDate>
+      
+      <guid>http://example.org/posts/primeiro-post/</guid>
+      <description>Este é o primeiro post&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Fri, 26 Nov 2021 13:44:23 +0100</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Este é um sítio Web criado com HUGO. Gostas del?
+Estou certo de que has topar em HUGO umha ferramenta excelente para desenvolver sítios de contido.
+É super poderoso!!!
+ Rápido Versátil Potente  </description>
+    </item>
+    
+  </channel>
+</rss>
